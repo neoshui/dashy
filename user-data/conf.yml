@@ -7,7 +7,7 @@ pageInfo:
 
 # Optional app settings and configuration
 appConfig:
-  configSource: api/load-config
+  configSource: /api/load-config
   theme: colorful
   
 
