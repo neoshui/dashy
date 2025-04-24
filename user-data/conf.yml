@@ -8,6 +8,7 @@ pageInfo:
 # Optional app settings and configuration
 appConfig:
   theme: colorful
+  configSource: user-data/load-config
 
 # Main content - An array of sections, each containing an array of items
 sections:
